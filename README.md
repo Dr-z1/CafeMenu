@@ -1,12 +1,12 @@
 # CafeMenu
-single page about CafeMenu using Html+css (Exercise from Free Code Camp)
+single page about CafeMenu using Html+css
 
 
-This website was built using Free Code Camp instructions: Learn Basic CSS By Building Cat Photo App
+This website was built using Free Code Camp instructions:  Learn Basic CSS By Building A CafeMenu
 
 Section: Responsive Web Design
 
-Course Name: Learn Basic CSS By Building Cat Photo App
+Course Name: Learn Basic CSS By Building A CafeMenu
 
 Deatils: CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
