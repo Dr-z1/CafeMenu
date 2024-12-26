@@ -18,26 +18,29 @@
 
 ## **Purpose**
 
-**CSS** tells the browser how to display your webpage. You can use **CSS** to set the color, font, size, and other aspects of HTML elements.
+**CSS** Tells The Browser How to Display Your Webpage. 
 
-In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+You Can Use **CSS** To Set The Color, Font, Size, And Other Aspects of HTML Elements.
+
+In This Course, You'll Learn CSS By Designing A Menu Page For A Cafe WebPage.
 
 ## **Acknowledgment**
 
-This project was created following the instructions provided by **FreeCodeCamp**.
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
-**All rights** to this project and its related materials belong to **FreeCodeCamp**, a free educational platform offering structured courses and hands-on projects.
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
-I am showcasing this project as part of my learning journey, completed based on FreeCodeCamp's resources and guidance.
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
-A big thank you to **FreeCodeCamp** for their well-structured curriculum, projects, and partially provided code snippets that made this project possible.
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-## **Special thanks**
+## **Special Thanks**
 
-I would also like to extend **my gratitude** to the following channels for their guidance in writing the code:
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
 **[@codeManS](https://www.youtube.com/@codeManS)**
 
 **[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-These resources provided valuable insights and helped me refine my coding skills.
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
+
