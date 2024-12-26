@@ -2,9 +2,9 @@
 
 ## **Project Overview**
 
-#### This project is a **Cafe Menu**, developed as part of the FreeCodeCamp Curriculum. 
+#### This Project Is A **Cafe Menu**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The primary goal is Learn Basic CSS By Building a Cafe Menu.
+#### The Primary Goal Is Learn Basic CSS By Building a Cafe Menu.
 
 ## **Course Details**
 
@@ -12,9 +12,9 @@
   
 + **Project Name**: Cafe Menu Webpage.
   
-+ This site was built using **[Free Code Camp](https://www.freecodecamp.org/).**
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
-+ This project is one of the **required tasks** to earn the certification in Responsive Web Design.
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
 ## **Purpose**
 
